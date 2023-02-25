@@ -11,11 +11,15 @@ Insertion Sort, Selection Sort, Merge Sort, Binary Search Tree
 3. [2,6,16,**18**,**22**,27]
 
 **Big-O Notation:**
+
 Best Case: O($n$)
+
 Average Case: O($n^2$)
+
 Worst Case: O($n^2$)
 
 **Time Complexity of number 18:**
+
 Average Case.
 
 ***
